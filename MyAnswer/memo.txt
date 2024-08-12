@@ -1,0 +1,3 @@
+下記は要見直し、忘れそう
+null-undefined
+booleans
